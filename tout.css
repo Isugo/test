@@ -1,0 +1,28 @@
+:root {
+--themeColor1: #2F9DDCFF;
+--themeColor2: #E58653FF;
+--customFont: 'Arial Black';
+--homeImage: url('https://i.imgur.com/he6fXgD.png');
+--homeImageSize: cover;
+--backgroundColor: #0d0d0d;
+--backgroundImage: url('https://i.imgur.com/pAPSxJf.jpg');
+--backgroundPosition: center;
+--backgroundSize: cover;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 6px;
+--backgroundOpacity: 0.8;
+--rs-small-spacing: 2px;
+--rs-medium-spacing: 2px;
+--rs-large-spacing: 4px;
+--rs-small-width: 3px;
+--rs-medium-width: 3px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #747f8d;
+--rs-phone-visible: block;
+}
